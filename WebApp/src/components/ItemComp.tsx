@@ -1,11 +1,9 @@
 import { Select, Typography, Option, Input } from "@material-tailwind/react";
-import { useContext, useState } from "react";
-import { Item } from "./Form";
+import { useState } from "react";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { removeTrans, updateTrans } from "../api/transaction";
 import IconTrash from "../assets/trash-can-regular.svg";
 import IconEdit from "../assets/edit-solid.svg";
-import { log } from "console";
 
 type Props = {
   id: number;
