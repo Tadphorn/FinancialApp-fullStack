@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "id": "bef54c9e-33c7-43cb-984f-470b1fb64818",
+      "title": "new gen woww",
+      "amount": 200,
+      "genres": "Education"
+    },
+    {
+      "id": "e40e2df9-8a14-430b-9538-0cc0a210a91a",
+      "title": "hambergerss",
+      "amount": -149,
+      "genres": "Food"
+    },
+    {
+      "id": "3c783b57-1d33-4921-af7f-5bfd9adcd283",
+      "title": "react",
+      "amount": -1000,
+      "genres": "Education"
+    },
+    {
+      "id": "ee95e1f6-a112-4337-ba44-c77c24901541",
+      "title": "chayen",
+      "amount": -59,
+      "genres": "Food"
+    },
+    {
+      "id": "79ffc6e4-3958-4ff0-9609-55f27c6e1258",
+      "title": "skirt",
+      "amount": -300,
+      "genres": "Personal care"
+    },
+    {
+      "id": "bbd0f270-8415-4355-9d46-34daaba15521",
+      "title": "daddy",
+      "amount": 2000,
+      "genres": "Income"
+    },
+    {
+      "id": "c41e1ab9-dc9e-4cb0-b89f-32238be2c443",
+      "title": "ิbanananan",
+      "amount": -200,
+      "genres": "Education"
+    },
+    {
+      "id": "ee92496f-ae44-4dee-9499-90d62cac914e",
+      "title": "riiisaa",
+      "amount": -300,
+      "genres": "Food"
+    },
+    {
+      "id": "2d560e22-2fc1-4f77-8cf5-b4a8d2fad086",
+      "title": "hommy",
+      "amount": -1000,
+      "genres": "Housing"
+    },
+    {
+      "id": "13300fad-e730-4a3c-8322-cc2b3e85b7dc",
+      "title": "ierfeihio",
+      "amount": -300,
+      "genres": "Transportation"
+    },
+    {
+      "id": "18d63d7d-8b14-4065-8a3d-031379012149",
+      "title": "netflix",
+      "amount": -299,
+      "genres": "Entertainment"
+    },
+    {
+      "id": "8168e92e-033b-4f07-b98f-8a5d9585abd3",
+      "title": "credit",
+      "amount": -1999,
+      "genres": "Debt payments"
+    },
+    {
+      "id": "7741cb5c-c38d-41cd-9edc-d75b2970dfce",
+      "title": "ejfiwjei",
+      "amount": 600,
+      "genres": "Income"
+    }
+  ]
+}
