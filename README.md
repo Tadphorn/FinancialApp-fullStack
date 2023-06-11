@@ -9,3 +9,8 @@ yarn dev
 ```
 yarn start:dev
 ```
+### Built With
+
+* [![Nest][Nest.js]][Nest-url]
+* [![React][React.js]][React-url]
+
