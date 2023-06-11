@@ -1,13 +1,13 @@
 # FinancialApp-fullStack
-## Run project
-### WebApp
+## 🚀 Run project
 Install with yarn
+#### Frontend
 ```
 yarn dev
 ```
-### Backend
+#### Backend
 ```
 yarn start:dev
 ```
-## 🛠 Tools
-![My Skills1](https://skillicons.dev/icons?i=react,mysql,nestjs,ts,tailwind,vite)
+## 🛠 Build With
+![My Skills1](https://skillicons.dev/icons?i=react,nestjs,mysql,ts,tailwind,vite)
