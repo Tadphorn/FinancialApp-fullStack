@@ -46,7 +46,6 @@ export default function Transaction({ items }: Props) {
         <tbody>
           {items.map((element, index) => {
             return <ItemComp {...element} key={index} />;
-            // return <h1>{element.id}</h1>;
           })}
         </tbody>
       </table>
